@@ -1,14 +1,12 @@
 <div align="center">
 
-# ☁️ MD AKMAL HUSSAIN
-### **Senior DevOps Engineer | Cloud Infrastructure & DevSecOps Specialist**
-
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](#)
-[![DevSecOps](https://img.shields.io/badge/DevSecOps-000000?style=for-the-badge&logo=shield&logoColor=white)](#)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](#)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=MD%20AKMAL%20HUSSAIN&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Senior%20DevOps%20%26%20Cloud%20Infrastructure%20Engineer&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=850&lines=10%2B+Years+Total+IT+Experience;6%2B+Years+Azure+%26+DevSecOps+Specialist;Terraform+%7C+Azure+DevOps+%7C+GitHub+Actions;Zero-Trust+Security+%26+Hub-Spoke+Architecture" />
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/md-akmal-hussain">
   <img src="https://img.shields.io/badge/LinkedIn-Md_Akmal_Hussain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -93,5 +91,5 @@ I specialize in designing **enterprise-grade Azure Landing Zone architectures (H
 ---
 
 <div align="center">
-  <p><i>Automate Everything. | Infrastructure as Code. | Zero Trust Security.</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer" width="100%" />
 </div>
