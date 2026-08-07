@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" alt="Header Banner" />
+  <img src="https://svg-banners.mybluemix.net/api?type=origin&text1=MD%20AKMAL%20HUSSAIN&text2=Senior%20DevOps%20%26%20Cloud%20Infrastructure%20Engineer&width=1000&height=220&fontFamily=Fira%20Code&fontSize=32" width="100%" alt="Header Banner" />
 </div>
 
 <p align="center">
@@ -99,5 +99,5 @@ I specialize in designing **enterprise-grade Azure Landing Zone architectures (H
 ---
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" alt="Footer Banner" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-85d7-f275e533e46e.gif" width="100%" alt="Footer Divider" />
 </div>
