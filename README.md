@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=MD%20AKMAL%20HUSSAIN&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Senior%20DevOps%20%26%20Cloud%20Infrastructure%20Engineer&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:00D8FF,50:0078D4,100:1B1B2F&height=220&section=header&text=MD%20AKMAL%20HUSSAIN&fontSize=42&fontColor=ffffff&animation=soft&fontAlignY=40&desc=Senior%20DevOps%20%7C%20Cloud%20Infrastructure%20%7C%20DevSecOps&descSize=18&descAlignY=65" width="100%" alt="Header Banner" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=850&lines=10%2B+Years+Total+IT+Experience;6%2B+Years+Azure+%26+DevSecOps+Specialist;Terraform+%7C+Azure+DevOps+%7C+GitHub+Actions;Zero-Trust+Security+%26+Hub-Spoke+Architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00D8FF&center=true&vCenter=true&width=850&lines=10%2B+Years+Total+IT+Experience;6%2B+Years+Azure+%26+DevSecOps+Specialist;Enterprise+Hub-Spoke+Azure+Landing+Zones;Terraform+%7C+Azure+DevOps+%7C+GitHub+Actions;Zero-Trust+Security+%26+Automated+CI%2FCD" />
 
 <br><br>
 
@@ -91,5 +91,5 @@ I specialize in designing **enterprise-grade Azure Landing Zone architectures (H
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0078D4,100:00D8FF&height=100&section=footer" width="100%" />
 </div>
