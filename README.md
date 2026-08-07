@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00D8FF&height=220&section=header&text=Md%20Akmal%20Hussain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20DevOps%20%26%20Cloud%20Infrastructure%20Engineer&descSize=20&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://myoctocat.com/assets/images/base-octocat.png" width="0" />
+  <img src="https://raw.githubusercontent.com/andrem22/andrem22/main/assets/banner.gif" width="100%" alt="DevOps Cloud Animation Banner" />
 </div>
 
 <p align="center">
@@ -99,5 +100,5 @@ I specialize in designing **enterprise-grade Azure Landing Zone architectures (H
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D8FF,100:0078D4&height=120&section=footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/andrem22/andrem22/main/assets/line.gif" width="100%" />
 </div>
