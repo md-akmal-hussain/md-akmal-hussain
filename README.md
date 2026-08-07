@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://myoctocat.com/assets/images/base-octocat.png" width="0" />
-  <img src="https://raw.githubusercontent.com/andrem22/andrem22/main/assets/banner.gif" width="100%" alt="DevOps Cloud Animation Banner" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" alt="Header Banner" />
 </div>
 
 <p align="center">
@@ -100,5 +99,5 @@ I specialize in designing **enterprise-grade Azure Landing Zone architectures (H
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andrem22/andrem22/main/assets/line.gif" width="100%" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" alt="Footer Banner" />
 </div>
