@@ -1,16 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D8FF&center=true&vCenter=true&random=false&width=900&height=100&lines=👋+MD+AKMAL+HUSSAIN;Senior+DevOps+%26+Cloud+Engineer;Azure+Landing+Zones+%7C+Terraform+%7C+DevSecOps" alt="Main Header Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=10%2B+Years+IT+Experience+%7C+6%2B+Years+Cloud+Specialized;Automating+Secure+CI%2FCD+Pipelines;Zero-Trust+Security+%26+Hub-Spoke+Architecture" />
-</p>
-
 <div align="center">
 
-# 👋 Hi, I'm Md Akmal Hussain
+# ☁️ MD AKMAL HUSSAIN
+### **Senior DevOps Engineer | Cloud Infrastructure & DevSecOps Specialist**
 
-### Senior DevOps Engineer | Cloud Infrastructure & DevSecOps Specialist
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](#)
+[![DevSecOps](https://img.shields.io/badge/DevSecOps-000000?style=for-the-badge&logo=shield&logoColor=white)](#)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](#)
 
 <br>
 
@@ -34,7 +30,7 @@
 
 # 💎 About Me
 
-I am a **Senior DevOps & Cloud Infrastructure Engineer** with **10+ years of total IT experience**, including **5+ years specializing in Microsoft Azure, IaC automation, and DevSecOps**[cite: 1].
+I am a **Senior DevOps & Cloud Infrastructure Engineer** with **10+ years of total IT experience**, including **6+ years specializing in Microsoft Azure, IaC automation, and DevSecOps**[cite: 1].
 
 I specialize in designing **enterprise-grade Azure Landing Zone architectures (Hub-Spoke)**[cite: 1], building **reusable modular Terraform code**[cite: 1], and orchestrating **secure CI/CD pipelines**[cite: 1] that accelerate deployment cycles while maintaining strict Zero-Trust security and governance[cite: 1].
 
@@ -96,6 +92,6 @@ I specialize in designing **enterprise-grade Azure Landing Zone architectures (H
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Automate+Everything.;Infrastructure+as+Code.;Zero+Trust+Security." alt="Footer Typing SVG" />
-</p>
+<div align="center">
+  <p><i>Automate Everything. | Infrastructure as Code. | Zero Trust Security.</i></p>
+</div>
