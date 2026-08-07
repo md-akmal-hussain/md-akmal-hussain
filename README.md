@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00D8FF&center=true&vCenter=true&width=850&lines=10%2B+Years+Total+IT+Experience;6%2B+Years+Azure+%26+DevSecOps+Specialist;Enterprise+Hub-Spoke+Azure+Landing+Zones;Terraform+%7C+Azure+DevOps+%7C+GitHub+Actions;Zero-Trust+Security+%26+Automated+CI%2FCD" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00D8FF&center=true&vCenter=true&width=850&lines=10%2B+Years+Total+IT+Experience;5%2B+Years+Azure+%26+DevOps+Specialist;Enterprise+Hub-Spoke+Azure+Landing+Zones;Terraform+%7C+Azure+DevOps+%7C+GitHub+Actions;Zero-Trust+Security+%26+Automated+CI%2FCD" />
 
 <br><br>
 
@@ -28,7 +28,7 @@
 
 # 💎 About Me
 
-I am a **Senior DevOps & Cloud Infrastructure Engineer** with **10+ years of total IT experience**, including **6+ years specializing in Microsoft Azure, IaC automation, and DevSecOps**[cite: 1].
+I am a **Senior DevOps & Cloud Infrastructure Engineer** with **10+ years of total IT experience**, including **5+ years specializing in Microsoft Azure, IaC automation, and DevSecOps**.
 
 I specialize in designing **enterprise-grade Azure Landing Zone architectures (Hub-Spoke)**[cite: 1], building **reusable modular Terraform code**[cite: 1], and orchestrating **secure CI/CD pipelines**[cite: 1] that accelerate deployment cycles while maintaining strict Zero-Trust security and governance[cite: 1].
 
