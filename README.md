@@ -1,9 +1,9 @@
-<div align="center">
-  <img src="https://svg-banners.mybluemix.net/api?type=origin&text1=MD%20AKMAL%20HUSSAIN&text2=Senior%20DevOps%20%26%20Cloud%20Infrastructure%20Engineer&width=1000&height=220&fontFamily=Fira%20Code&fontSize=32" width="100%" alt="Header Banner" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D8FF&center=true&vCenter=true&random=false&width=900&height=100&lines=👋+MD+AKMAL+HUSSAIN;Senior+DevOps+%26+Cloud+Engineer;Azure+Landing+Zones+%7C+Terraform+%7C+DevSecOps" alt="Main Header Banner" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=750&lines=Senior+DevOps+%26+Cloud+Infrastructure+Engineer;Azure+Landing+Zones+%7C+Terraform+%7C+DevSecOps;10%2B+Years+IT+Experience+%7C+6%2B+Years+Cloud+Specialized;Automating+Secure+CI%2FCD+Pipelines;Zero-Trust+Security+%26+Hub-Spoke+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=10%2B+Years+IT+Experience+%7C+6%2B+Years+Cloud+Specialized;Automating+Secure+CI%2FCD+Pipelines;Zero-Trust+Security+%26+Hub-Spoke+Architecture" />
 </p>
 
 <div align="center">
@@ -11,8 +11,6 @@
 # 👋 Hi, I'm Md Akmal Hussain
 
 ### Senior DevOps Engineer | Cloud Infrastructure & DevSecOps Specialist
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0078D4&center=true&vCenter=true&random=false&width=850&lines=10%2B+Years+Total+IT+Experience;6%2B+Years+Azure+%26+DevSecOps+Specialist;Terraform+%7C+Azure+DevOps+%7C+GitHub+Actions;DevSecOps+(tfsec%2C+TFLint%2C+Checkov%2C+TruffleHog)" />
 
 <br>
 
@@ -98,6 +96,6 @@ I specialize in designing **enterprise-grade Azure Landing Zone architectures (H
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-85d7-f275e533e46e.gif" width="100%" alt="Footer Divider" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Automate+Everything.;Infrastructure+as+Code.;Zero+Trust+Security." alt="Footer Typing SVG" />
+</p>
