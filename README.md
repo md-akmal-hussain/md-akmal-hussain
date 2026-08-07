@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:00D8FF,50:0078D4,100:1B1B2F&height=220&section=header&text=MD%20AKMAL%20HUSSAIN&fontSize=42&fontColor=ffffff&animation=soft&fontAlignY=40&desc=Senior%20DevOps%20%7C%20Cloud%20Infrastructure%20%7C%20DevSecOps&descSize=18&descAlignY=65" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002B49,50:0078D4,100:00D8FF&height=220&section=header&text=MD%20AKMAL%20HUSSAIN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Senior%20DevOps%20%7C%20Cloud%20Infrastructure%20%7C%20DevSecOps&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
 
 <br>
 
@@ -91,5 +91,5 @@ I specialize in designing **enterprise-grade Azure Landing Zone architectures (H
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0078D4,100:00D8FF&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D8FF,100:002B49&height=100&section=footer" width="100%" />
 </div>
